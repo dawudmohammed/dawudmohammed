@@ -65,6 +65,6 @@ int total = 5;
   cout<<"Mean: "<<mean(number_list,total)<<endl;
   cout<<"Median:"<<median(number_list,total)<<endl;
   cout<<"Mode: "<<mode(number_list,total)<<endl;
- 
+//tlc4 
 
 }
